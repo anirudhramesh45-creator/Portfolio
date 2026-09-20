@@ -21,7 +21,7 @@ Welcome to my professional portfolio repository! I am a junior undergraduate stu
 
 ---
 
-## 🛠️ Projects
+## 🚀 Projects
 
  [Bikeshare EDA Project](https://github.com/anirudhramesh45-creator/BikeShare_EDA_-Project)
 * Capital Bikeshare: Member vs Casual Rider Analysis
