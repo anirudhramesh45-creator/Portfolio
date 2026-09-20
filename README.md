@@ -21,6 +21,15 @@ Welcome to my professional portfolio repository! I am a junior undergraduate stu
 
 ---
 
+## 🛠️ Projects
+
+ [Bikeshare EDA Project](https://github.com/anirudhramesh45-creator/BikeShare_EDA_-Project)
+* Capital Bikeshare: Member vs Casual Rider Analysis
+* Compare riding patterns by hour of day, day of week, weekday vs. weekend, and month
+* The project uses publicly available trip data from Capital Bikeshare.
+
+---
+
 ## 🎓 Education
 
 ### **University of North Carolina at Charlotte** | Charlotte, NC
